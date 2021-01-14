@@ -16,5 +16,6 @@
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "liveServer.settings.root": "/build/"
+  "liveServer.settings.root": "/build/",
+  "files.eol": "\n"
 }
